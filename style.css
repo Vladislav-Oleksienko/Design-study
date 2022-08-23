@@ -62,6 +62,7 @@ h1 {
   line-height: 1.1;
   letter-spacing: -1px;
   margin-bottom: 24px;
+  /* text-shadow: 0 5px 5px rgba(0, 0, 0, 0.07); */
 }
 
 .header-text {
@@ -112,6 +113,10 @@ img {
 }
 
 /* CHAIRS */
+.chair {
+  box-shadow: 0 20px 30px 5px rgba(0, 0, 0, 0.07);
+}
+
 .chair-box {
   padding: 24px;
 }
